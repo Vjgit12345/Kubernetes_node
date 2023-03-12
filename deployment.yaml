@@ -14,7 +14,7 @@ spec:
     spec:
       containers: 
       - name: nodeapp
-        image: vijayramdoc/nodeapp-deployment1:latest
+        image: vijayramdoc/nodeapp-deployment1:8
         resources:
           limits:
             memory: "512Mi"
